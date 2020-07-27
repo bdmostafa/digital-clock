@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(0, 0, 0, 0.89);
+}
+
+#clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: cornflowerblue;
+    font-family: Orbitron;
+    font-size: 50px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    transform: translate(-50%, -50%);
+}
