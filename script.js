@@ -6,6 +6,7 @@ function startingTime() {
     let hours = today.getHours();
     let minutes = today.getMinutes();
     let seconds = today.getSeconds();
+    month = month + 1;
     minutes = addZero(minutes);
     seconds = addZero(seconds);
     document.getElementById('date').innerHTML = day + "-" + month + "-" + year;
