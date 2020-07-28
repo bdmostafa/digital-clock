@@ -13,3 +13,15 @@ body {
     font-weight: bold;
     transform: translate(-50%, -50%);
 }
+
+#date {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    color: cornflowerblue;
+    font-family: Orbitron;
+    font-size: 45px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    transform: translate(-50%, -50%);
+}
